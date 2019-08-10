@@ -1,0 +1,126 @@
+{
+  "player": "Mathew",
+  "glory": { "session": 0, "earned": 0 },
+  "health": { "hp": 32, "chirugeryNeeded": false, "wounds": [] },
+  "holdings": ["Tisbury"],
+  "joustScore": { "wins": 0, "losses": 0 },
+  "personalData": {
+    "name": "Roland",
+    "age": 21,
+    "sonNumber": 1,
+    "homeland": "Salisbury",
+    "culture": "Cymric",
+    "religion": "British Christian",
+    "lord": "Roderic, Earl of Salisbury",
+    "currentClass": "",
+    "currentHome": "Tisbury"
+  },
+  "attributes": {
+    "size": 16,
+    "dex": 10,
+    "str": 17,
+    "con": 16,
+    "app": 10
+  },
+  "distinctiveFeatures": ["Great Big Bushy Beard"],
+  "skills": {
+    "battle": 10,
+    "horsemanship": 10,
+    "axe": 15,
+    "lance": 10,
+    "spear": 6,
+    "dagger": 5,
+    "awareness": 5,
+    "boating": 1,
+    "compose": 1,
+    "courtesy": 3,
+    "dancing": 7,
+    "faerieLore": 1,
+    "falconry": 10,
+    "firstAid": 10,
+    "flirting": 3,
+    "folkLore": 10,
+    "gaming": 3,
+    "heraldry": 3,
+    "hunting": 2,
+    "intrigue": 3,
+    "orate": 3,
+    "play (Harp)": 18,
+    "read (Latin)": 5,
+    "recognise": 10,
+    "religion": 2,
+    "romance": 2,
+    "singing": 2,
+    "stewardship": 7,
+    "swimming": 2,
+    "tourney": 2
+  },
+  "personalityTraits": {
+    "traits": {
+      "chaste|lustful": 13,
+      "energetic|lazy": 13,
+      "forgiving|vengeful": 10,
+      "generous|selfish": 13,
+      "honest|deceitful": 10,
+      "just|arbitrary": 16,
+      "merciful|cruel": 10,
+      "modest|proud": 13,
+      "prudent|reckless": 10,
+      "spiritual|worldly": 10,
+      "temperate|indulgent": 13,
+      "trusting|suspicious": 10,
+      "valorous|cowardly": 15
+    },
+    "directedTraits": [{ "name": "example trait", "value": 0 }]
+  },
+  "passions": {
+    "Loyalty (Lord)": 15,
+    "Love (Family)": 15,
+    "Hospitality": 15,
+    "Honour": 15,
+    "Hatred (Saxons)": 38,
+    "Hatred (Picts)": 12,
+    "Hatred (Vortigern)": 12
+  },
+  "equipment": {
+    "armour": { "name": "Chainmail and Shield", "value": 0 },
+    "clothing": "Fine Clothing",
+    "gear": [
+      { "name": "Axe", "quantity": 1 },
+      { "name": "Spear", "quantity": 2 },
+      { "name": "Dagger", "quantity": 1 },
+      {
+        "name": "Ancient Bronze Axe",
+        "quantity": 1,
+        "value": 1,
+        "notes": "breaks after use"
+      }
+    ]
+  },
+  "equipmentAtHome": [],
+  "army": {
+    "knights": { "old": 0, "middleAged": 1, "young": 4, "vassal": 0 },
+    "lineageMen": 7,
+    "levy": 70
+  },
+  "horses": [
+    { "type": "Charger", "damage": 0 },
+    { "type": "Rouncy", "gear": "Personal Gear" },
+    { "type": "Rouncy", "gear": "Travel Gear" },
+    { "type": "Sumpter", "gear": "War Gear" }
+  ],
+  "squires": [
+    {
+      "name": "Archibald",
+      "age": 15,
+      "skills": { "firstAid": 6, "battle": 1, "horsemanship": 6 }
+    }
+  ],
+  "history": [
+    { "date": 464, "event": "birth" },
+    { "date": 476, "event": "father died", "glory": 160 },
+    { "date": 479, "event": "squired" },
+    { "date": 485, "event": "knighted", "glory": 1000 }
+  ],
+  "familyHistory": {}
+}
